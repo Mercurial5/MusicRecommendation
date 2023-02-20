@@ -1,0 +1,5 @@
+dataset/test_dataset/*
+test_sliced_images
+test_spectrogram_images
+.idea
+venv
